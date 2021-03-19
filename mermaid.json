@@ -1,0 +1,8 @@
+{
+  "startOnLoad": true,
+  "sequence": {
+    "mirrorActors": true
+  },
+  "theme": "default",
+  "themeCSS": ".messageText { stroke: none; }"
+}
